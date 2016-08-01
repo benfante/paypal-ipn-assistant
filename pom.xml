@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
     <name>PayPal IPN Assistant</name>
     <description>Managing IPN Messages from PayPal.</description>
-    <url>http://www.github.com/benfante/paypal/ipnassistant</url>
+    <url>https://github.com/benfante/paypal-ipn-assistant</url>
     <inceptionYear>2016</inceptionYear>
     <build>
         <plugins>
@@ -159,13 +159,13 @@
         </repository>
     </distributionManagement>
     <scm>
-        <connection></connection>
-        <developerConnection></developerConnection>
-        <url></url>
+        <connection>https://github.com/benfante/paypal-ipn-assistant.git</connection>
+        <developerConnection>git@github.com:benfante/paypal-ipn-assistant.git</developerConnection>
+        <url>https://github.com/benfante/paypal-ipn-assistant</url>
     </scm>
     <issueManagement>
         <system>GitHub Code Issues</system>
-        <url></url>
+        <url>https://github.com/benfante/paypal-ipn-assistant/issues</url>
     </issueManagement>
     <licenses>
         <license>
@@ -176,8 +176,8 @@
         </license>
     </licenses>
     <organization>
-        <name>Benfante PayPal Projects</name>
-        <url></url>
+        <name>Benfante GitHub Projects</name>
+        <url>https://github.com/benfante</url>
     </organization>
     <developers>
         <developer>
