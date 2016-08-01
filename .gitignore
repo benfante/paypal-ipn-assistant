@@ -10,3 +10,4 @@ buildNumber.properties
 /nbproject/
 paypalIpnAssistant.iml
 .idea/
+nb-configuration.xml
