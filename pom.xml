@@ -115,7 +115,11 @@
                     </execution>
                 </executions>
             </plugin>
-        </plugins>
+            <plugin>
+                <groupId>external.atlassian.jgitflow</groupId>
+                <artifactId>jgitflow-maven-plugin</artifactId>
+                <version>1.0-m5.1</version>
+            </plugin>
     </build>
     <reporting>
         <plugins>
@@ -159,8 +163,8 @@
         </repository>
     </distributionManagement>
     <scm>
-        <connection>https://github.com/benfante/paypal-ipn-assistant.git</connection>
-        <developerConnection>git@github.com:benfante/paypal-ipn-assistant.git</developerConnection>
+        <connection>scm:git:https://github.com/benfante/paypal-ipn-assistant.git</connection>
+        <developerConnection>scm:git:git@github.com:benfante/paypal-ipn-assistant.git</developerConnection>
         <url>https://github.com/benfante/paypal-ipn-assistant</url>
     </scm>
     <issueManagement>
