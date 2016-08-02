@@ -1,4 +1,4 @@
-# PayPal IPN Assistant
+# PayPal IPN Assistant [![Build Status](https://travis-ci.org/benfante/paypal-ipn-assistant.svg?branch=master)](https://travis-ci.org/benfante/paypal-ipn-assistant)
 A small Java Library for managing the IPN messages coming from PayPal.
 
 ## How to add to your Maven project
